@@ -1,1 +1,6 @@
 # RealEstateApp
+
+## SETUP
+
+
+## INSTALLATION INSTRUCTIONS
