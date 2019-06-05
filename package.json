@@ -1,0 +1,23 @@
+{
+  "name": "real-estate-app",
+  "version": "1.0.0",
+  "description": "A real estate application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bbmattieu9/RealEstateApp.git"
+  },
+  "keywords": [
+    "NodeJs",
+    "RealEstate"
+  ],
+  "author": "Babatoonday Mattieu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bbmattieu9/RealEstateApp/issues"
+  },
+  "homepage": "https://github.com/bbmattieu9/RealEstateApp#readme"
+}
